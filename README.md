@@ -23,7 +23,6 @@ I'm a passionate 4th-year **Computer Science** student with a keen interest in *
 ## 🌱 What I'm Learning:
 - **Data Structures and Algorithms (DSA)**
 - **DevOps tools**: Kubernetes, Jenkins
-- **Cyber Security**
 
 ---
 
@@ -33,8 +32,8 @@ I'm a passionate 4th-year **Computer Science** student with a keen interest in *
 ---
 
 ## 📫 Let's Connect:
-- **LinkedIn**: [Akshay Pratap Singh](https://www.linkedin.com/in/akshayconqurers)
-- **Email**: akshaypsingh@example.com
+- **LinkedIn**: [Akshay Pratap Singh](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)
+- **Email**: akshayprince7800@gmail.com
 
 ---
 
