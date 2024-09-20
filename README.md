@@ -1,7 +1,7 @@
-# 👋 Hello, I'm [Akshay Pratap Singh](www.linkedin.com/in/akshay-pratap-singh-a309b8250) 
+# 👋 Hello, I'm [Akshay Pratap Singh](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250) 
 
 [![GitHub followers](https://img.shields.io/github/followers/akshayconqurers?label=Follow&style=social)](https://github.com/akshayconqurers)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)](www.linkedin.com/in/akshay-pratap-singh-a309b8250)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)
 
 I'm a passionate **4th-year Computer Science student** with a deep interest in **development**, **cloud computing**, and **Data Structures & Algorithms (DSA)**. I love **building web applications**, solving coding problems, and staying up-to-date with emerging technologies.
 
@@ -77,7 +77,7 @@ I thrive in environments where I can use both **technical skills** and **creativ
 ---
 
 ## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayconqurers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshaypsingh@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=flat&logo=firefox&logoColor=white)](#)
 
