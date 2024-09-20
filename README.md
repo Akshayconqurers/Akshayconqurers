@@ -1,7 +1,7 @@
 # 👋 Hello, I'm [Akshay Pratap Singh](www.linkedin.com/in/akshay-pratap-singh-a309b8250) 
 
 [![GitHub followers](https://img.shields.io/github/followers/akshayconqurers?label=Follow&style=social)](https://github.com/akshayconqurers)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshayconqurers)](https://www.linkedin.com/in/akshayconqurers)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)](www.linkedin.com/in/akshay-pratap-singh-a309b8250)
 
 I'm a passionate **4th-year Computer Science student** with a deep interest in **development**, **cloud computing**, and **Data Structures & Algorithms (DSA)**. I love **building web applications**, solving coding problems, and staying up-to-date with emerging technologies.
 
