@@ -1,5 +1,3 @@
-<!-- Banner Image -->
-![Header](https://your-banner-image-url.com)
 
 # 👋 Hi, I'm Akshay Pratap Singh
 
