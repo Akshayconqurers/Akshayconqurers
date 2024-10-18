@@ -37,13 +37,4 @@ I'm a **4th-year B.Tech Computer Science student** with a passion for **software
 - **LinkedIn**: [Akshay Pratap Singh](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)
 - **GitHub**: [akshayconqurers](https://github.com/akshayconqurers)
 
----
-
-```markdown
-
-### Tips for Improvement:
-- Use badges to highlight tech stack and skills.
-- Add an eye-catching introduction banner using Markdown images or GitHub's custom emoji.
-- Include a GitHub Stats section to show your most-used languages and recent contributions.
-
-Let me know if you'd like any specific customizations!
+See you !!
