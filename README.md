@@ -42,6 +42,20 @@ Welcome to my GitHub! I'm a 4th-year B.Tech student, driven by my passion for co
 - **IoT and Smart Cities**: Building an IoT-based street light monitoring system.
 - **DevOps**: Mastering scalable automation with Docker and Kubernetes.
 
+
+<p align="center">
+  <img src="assets/coding3.gif" alt="coding animation" width="300" height="200"/>
+</p>
+
+<p align="center">
+  <a href="<iframe src="https://giphy.com/embed/26vACLXgansDXwHzzI" width="480" height="331" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI">via GIPHY</a></p>">
+    <img src="<iframe src="https://giphy.com/embed/26vACLXgansDXwHzzI" width="480" height="331" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI">via GIPHY</a></p>" alt="Explore Projects"/>
+  </a>
+  <a href="https://github.com/akshayconqurers">
+    <img src="<iframe src="https://giphy.com/embed/26vACLXgansDXwHzzI" width="480" height="331" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI">via GIPHY</a></p>" alt="GitHub Profile Views"/>
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
