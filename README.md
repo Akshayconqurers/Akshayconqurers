@@ -44,16 +44,24 @@ Welcome to my GitHub! I'm a 4th-year B.Tech student, driven by my passion for co
 
 
 <p align="center">
-  <img src="assets/coding3.gif" alt="coding animation" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" alt="Coding GIF" width="480" height="331">
 </p>
 
+---
+
 <p align="center">
-  <a href="<iframe src="https://giphy.com/embed/26vACLXgansDXwHzzI" width="480" height="331" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI">via GIPHY</a></p>">
-    <img src="<iframe src="https://giphy.com/embed/26vACLXgansDXwHzzI" width="480" height="331" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI">via GIPHY</a></p>" alt="Explore Projects"/>
+  <a href="https://github.com/akshayconqurers?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-1F8ACB?style=for-the-badge&logo=github" alt="Explore Projects"/>
   </a>
   <a href="https://github.com/akshayconqurers">
-    <img src="<iframe src="https://giphy.com/embed/26vACLXgansDXwHzzI" width="480" height="331" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI">via GIPHY</a></p>" alt="GitHub Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=akshayconqurers&color=brightgreen&style=for-the-badge" alt="GitHub Profile Views"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI">GIF via GIPHY</a>
 </p>
 
 ---
