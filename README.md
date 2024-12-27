@@ -80,10 +80,6 @@ Welcome to my GitHub! I'm a 4th-year B.Tech student, driven by my passion for co
   <a href="https://github.com/akshayconqurers"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=akshayconqurers&color=blue&style=flat-square&label=Profile+Views)
-
-
 ---
 
 ### 🔭 Goals for 2024
