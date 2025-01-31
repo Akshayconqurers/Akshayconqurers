@@ -69,7 +69,8 @@ Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositor
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshayconqurers&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayconqurers&theme=radical" alt="GitHub Streak" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshayconqurers&theme=radical)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayconqurers&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
