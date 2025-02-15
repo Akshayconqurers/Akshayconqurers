@@ -2,38 +2,52 @@
 
 **Aspiring Software Engineer** | **Cloud Enthusiast** | **IoT Innovator** | **Content Creator**  
 
-Welcome to my GitHub! A **final-year B.Tech student** passionate about **coding**, Web Development, **cloud-native development**, and building impactful **IoT solutions**. My mission is to leverage **technology** to solve real-world challenges while continuously learning and growing.  
+Final-year **B.Tech** student passionate about **Web Development**, **Cloud-Native Development**, and building impactful **IoT solutions**. I love leveraging **technology** to solve real-world challenges while continuously learning and growing.  
 
 ---
 
 ## 🌟 Highlights  
 
-- 🌐 **Open Source Contributor**: Actively contributing to repositories in **IoT**, **DevOps**, and **Web Development**.  
-- 🏅 **SIH Participant**: Represented my institute in **Smart India Hackathon (SIH 2023 & 2024)**.  
-- 📜 **Certified Cloud Practitioner**: Achieved certifications in **Google Cloud Career Practitioner** and **AWS Fundamentals**.  
-- 🛠️ **Problem Solver**: Passionate about algorithms, data structures, and real-world applications of **AI/ML**.  
+- 🌐 **Open Source Contributor**: Active contributions in **IoT**, **DevOps**, and **Web Development**.  
+- 🏅 **Smart India Hackathon Participant**: Represented my institute in **SIH 2023 & 2024**.  
+- 📜 **Certified Cloud Practitioner**: Certified in **Google Cloud Career Practitioner** and **AWS Fundamentals**.  
+- 🛠️ **Problem Solver**: Enthusiastic about **Data Structures**, **Algorithms**, and **AI/ML** applications.  
+
+---
+
+## 📜 Certifications  
+
+### 🔖 **Cloud Certifications**  
+- **Google Cloud Career Practitioner**  
+- **AWS Fundamentals**  
+
+### 📚 **Professional Development**  
+- **Data Structures and Algorithms**  
+- **Full-Stack Web Development**  
+
+### 🚀 **Emerging Technologies**  
+- **IoT and Smart Systems**  
+- **AI/ML in Cloud-Native Applications**  
+
+**[Explore My Certifications](https://github.com/akshayconqurers/certifications)**  
 
 ---
 
 ## 🚀 Skills & Technologies  
 
 ### Languages & Frameworks  
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Cloud & DevOps  
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>  
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -43,13 +57,13 @@ Welcome to my GitHub! A **final-year B.Tech student** passionate about **coding*
 Fitness-themed web app promoting daily health and fitness using **ReactJS** and **MongoDB**.  
 
 ### 🌟 **Smart Streetlight Controller**  
-An IoT-based streetlight system enhancing energy efficiency and fault detection.  
+IoT-based system for energy efficiency and fault detection in streetlights.  
 
 ### 🚀 **Courses API**  
-A full-fledged API built with **Java Spring Boot** and deployed with **Docker**.  
+Full-fledged API using **Java Spring Boot**, deployed with **Docker**.  
 
 ### 🧩 **Portfolio Website**  
-My personal portfolio showcasing skills, achievements, and projects.  
+Personal portfolio showcasing skills, achievements, and projects.  
 
 Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositories)  
 
@@ -57,9 +71,17 @@ Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositor
 
 ## 🌱 Currently Learning  
 
-- **Distributed Systems**: Exploring microservices and their scalability.  
-- **AI in IoT**: Implementing predictive maintenance models for hardware.  
-- **Advanced Kubernetes**: Mastering multi-cluster deployments.  
+- **Distributed Systems**: Microservices and scalability.  
+- **AI in IoT**: Predictive maintenance models.  
+- **Advanced Kubernetes**: Multi-cluster deployments.  
+
+---
+
+## 🏆 Achievements  
+
+- 🏅 **Smart India Hackathon Participant**: SIH 2023 & 2024.  
+- 📜 **Certifications**: Google Cloud Career Practitioner and AWS Fundamentals.  
+- 💡 **Tech Blogger**: Featured on **Medium**.  
 
 ---
 
@@ -75,46 +97,22 @@ Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositor
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshayconqurers&theme=radical&row=1&column=7" alt="GitHub Trophy" />
-</p>  
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayconqurers&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>  
 
 ---
 
-## 🏆 Achievements  
-
-- 🏅 **Smart India Hackathon Participant**: Represented my institute in **SIH 2023 & 2024**.  
-- 📜 **Certifications**: Google Cloud Career Practitioner and AWS Fundamentals.  
-- 💡 **Tech Blogger**: Articles featured in **Dev.to** and **Medium**.  
-
----
-
-## 🎓 Certifications  
-- [Certifications Repository](https://github.com/akshayconqurers/certifications)  
-
----
-
 ## 🌟 Let's Connect  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akshay-pratap-singh-a309b8250">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/akshayconqurers">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:akshayprince7800@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayconqurers)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayprince7800@gmail.com)  
 
 ---
 
-### ✨ Goals for 2025  
+## ✨ Goals for 2025  
 
 - Contribute to **open-source** projects impacting education and healthcare.  
 - Build innovative **IoT** solutions for environmental sustainability.  
 - Obtain advanced certifications in **Kubernetes** and **Cloud Architecture**.  
-- Apply for Jobs and Internships.
+- Make impactful MERN Projects  
