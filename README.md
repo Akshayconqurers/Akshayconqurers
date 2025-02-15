@@ -17,17 +17,7 @@ Final-year **B.Tech** student passionate about **Web Development**, **Cloud-Nati
 
 ## 📜 Certifications  
 
-### 🔖 **Cloud Certifications**  
-- **Google Cloud Career Practitioner**  
-- **AWS Fundamentals**  
-
-### 📚 **Professional Development**  
-- **Data Structures and Algorithms**  
-- **Full-Stack Web Development**  
-
-### 🚀 **Emerging Technologies**  
-- **IoT and Smart Systems**  
-- **AI/ML in Cloud-Native Applications**  
+Have a look by just clicking the Link Below !!
 
 **[Explore My Certifications](https://github.com/akshayconqurers/certifications)**  
 
