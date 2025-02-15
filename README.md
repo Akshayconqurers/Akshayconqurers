@@ -33,24 +33,22 @@ Welcome to my GitHub! A **final-year B.Tech student** passionate about **coding*
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>  
 
 ---
 
 ## 💻 Featured Projects  
 
-### 🔥 **[Athletix - SIH 2024](https://github.com/akshayconqurers/athletix)**  
+### 🔥 **Athletix - SIH 2024**  
 Fitness-themed web app promoting daily health and fitness using **ReactJS** and **MongoDB**.  
 
-### 🌟 **[Smart Streetlight Controller](https://github.com/akshayconqurers/scms)**  
+### 🌟 **Smart Streetlight Controller**  
 An IoT-based streetlight system enhancing energy efficiency and fault detection.  
 
-### 🚀 **[Courses API](https://github.com/akshayconqurers/courses-api)**  
+### 🚀 **Courses API**  
 A full-fledged API built with **Java Spring Boot** and deployed with **Docker**.  
 
-### 🧩 **[Portfolio Website](https://github.com/akshayconqurers/portfolio)**  
+### 🧩 **Portfolio Website**  
 My personal portfolio showcasing skills, achievements, and projects.  
 
 Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositories)  
@@ -93,6 +91,11 @@ Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositor
 
 ---
 
+## 🎓 Certifications  
+- [Certifications Repository](https://github.com/akshayconqurers/certifications)  
+
+---
+
 ## 🌟 Let's Connect  
 
 <p align="left">
@@ -113,8 +116,5 @@ Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositor
 
 - Contribute to **open-source** projects impacting education and healthcare.  
 - Build innovative **IoT** solutions for environmental sustainability.  
-- Obtain advanced certifications in **Kubernetes** and **Cloud Architecture**.
+- Obtain advanced certifications in **Kubernetes** and **Cloud Architecture**.  
 - Apply for Jobs and Internships.
-
----
-
