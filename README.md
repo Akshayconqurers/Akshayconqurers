@@ -52,6 +52,9 @@ IoT-based system for energy efficiency and fault detection in streetlights.
 ### ✈️ **FlyHigh Airline Management System**  
 Full-fledged C++ language used Fight Booking System with combination of OOP principles, data structures, and control flows provides a robust framework.
 
+### 💹 **Expense-Tracker**  
+Full-fledged C++ language used expense tracker used for managing daily expenses.
+
 ### 🧩 **Portfolio Website**  
 Personal portfolio showcasing skills, achievements, and projects.  
 
