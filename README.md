@@ -47,10 +47,10 @@ Have a look by just clicking the Link Below !!
 Fitness-themed web app promoting daily health and fitness using **ReactJS** and **MongoDB**.  
 
 ### 🌟 **Smart Streetlight Controller**  
-IoT-based system for energy efficiency and fault detection in streetlights.  
+IoT-based system for energy efficiency and fault detection in streetlights.
 
-### 🚀 **Courses API**  
-Full-fledged API using **Java Spring Boot**, deployed with **Docker**.  
+### ✈️ **FlyHigh Airline Management System**  
+Full-fledged C++ language used Fight Booking System with combination of OOP principles, data structures, and control flows provides a robust framework.
 
 ### 🧩 **Portfolio Website**  
 Personal portfolio showcasing skills, achievements, and projects.  
