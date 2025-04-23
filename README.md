@@ -1,7 +1,3 @@
-Here's a revamped GitHub README for your profile, incorporating your requested changes, removing Kubernetes, adding the new "Code Marathon" project, and reflecting your current learning in MERN Full Stack, React, and Next.js. I've kept it creative, concise, and aligned with GitHub README conventions while showcasing your personality and goals.
-
----
-
 # 👋 Hey, I'm Akshay Pratap Singh  
 
 **Aspiring Software Engineer** | **MERN** | **Cloud Enthusiast** | **DSA C++** | **Creativity Creator**  
