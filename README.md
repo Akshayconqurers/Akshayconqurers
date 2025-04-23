@@ -1,80 +1,89 @@
-# 👋 Hi, I'm Akshay Pratap Singh  
-
-**Aspiring Software Engineer** | **Cloud Enthusiast** | **IoT Innovator** | **Content Creator**  
-
-Final-year **B.Tech** student passionate about **Web Development**, **Cloud-Native Development**, and building impactful **IoT solutions**. I love leveraging **technology** to solve real-world challenges while continuously learning and growing.  
+Here's a revamped GitHub README for your profile, incorporating your requested changes, removing Kubernetes, adding the new "Code Marathon" project, and reflecting your current learning in MERN Full Stack, React, and Next.js. I've kept it creative, concise, and aligned with GitHub README conventions while showcasing your personality and goals.
 
 ---
 
-## 🌟 Highlights  
+# 👋 Hey, I'm Akshay Pratap Singh  
 
-- 🌐 **Open Source Contributor**: Active contributions in **IoT**, **DevOps**, and **Web Development**.  
-- 🏅 **Smart India Hackathon Participant**: Represented my institute in **SIH 2023 & 2024**.  
-- 📜 **Certified Cloud Practitioner**: Certified in **Google Cloud Career Practitioner** and **AWS Fundamentals**.  
-- 🛠️ **Problem Solver**: Enthusiastic about **Data Structures**, **Algorithms**, and **AI/ML** applications.  
+**Aspiring Software Engineer** | **MERN** | **Cloud Enthusiast** | **DSA C++** | **Creativity Creator**  
+
+Final-year **B.Tech** student fueled by a passion for **Web Development**, **Cloud-Native Solutions**, and crafting **IoT innovations**. I thrive on solving real-world problems with code, curiosity, and creativity. Let's build something extraordinary!  
+
+---
+
+## 🌟 About Me  
+
+- 🌐 **Open Source Advocate**: Contributing to **IoT**, **DevOps**, and **Web Development** projects.  
+- 🏅 **Smart India Hackathon Star**: Competed in **SIH 2023 & 2024**, showcasing innovative solutions.  
+- 📜 **Certified Cloud Explorer**: Certified in **Google Cloud Career Practitioner** and **AWS Fundamentals**.  
+- 🛠️ **Code Craftsman**: Enthusiastic about **Data Structures**, **Algorithms**, and **AI/ML** applications.  
 
 ---
 
 ## 📜 Certifications  
 
-Have a look by just clicking the Link Below !!
+Check out my credentials!  
 
-**[Explore My Certifications](https://github.com/akshayconqurers/certifications)**  
+**[Discover My Certifications](https://github.com/akshayconqurers/certifications)**  
 
 ---
 
 ## 🚀 Skills & Technologies  
 
 ### Languages & Frameworks  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 
 ### Cloud & DevOps  
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
 ## 💻 Featured Projects  
 
-### 🔥 **Athletix - SIH 2024**  
-Fitness-themed web app promoting daily health and fitness using **ReactJS** and **MongoDB**.  
+### 🏃 **Code Marathon**  
+A platform for organizing hackathons, enabling seamless team formation, and fostering collaborative coding. Built with **MERN Stack** to empower developers.  
 
 ### 🌟 **Smart Streetlight Controller**  
-IoT-based system for energy efficiency and fault detection in streetlights.
+An IoT-powered system for energy-efficient streetlights with real-time fault detection. **Completed in 2024!**  
+
+### 🔥 **Athletix - SIH 2024**  
+A fitness-focused web app built with **ReactJS** and **MongoDB** to promote daily health and wellness.  
 
 ### ✈️ **FlyHigh Airline Management System**  
-Full-fledged C++ language used Fight Booking System with combination of OOP principles, data structures, and control flows provides a robust framework.
+A robust C++-based flight booking system leveraging **OOP**, **data structures**, and efficient control flows.  
 
-### 💹 **Expense-Tracker**  
-Full-fledged C++ language used expense tracker used for managing daily expenses.
+### 💹 **Expense Tracker**  
+A C++ application for managing daily expenses with a clean, user-friendly interface.  
 
 ### 🧩 **Portfolio Website**  
-Personal portfolio showcasing skills, achievements, and projects.  
+A dynamic personal portfolio showcasing my skills, projects, and achievements.  
 
-Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositories)  
+Dive into my work: [My Repositories](https://github.com/akshayconqurers?tab=repositories)  
 
 ---
 
 ## 🌱 Currently Learning  
 
-- **Distributed Systems**: Microservices and scalability.  
-- **AI in IoT**: Predictive maintenance models.  
-- **Advanced Kubernetes**: Multi-cluster deployments.  
+- **MERN Full Stack Development**: Mastering **MongoDB**, **Express.js**, **React**, and **Node.js**.  
+- **React & Next.js**: 50% complete, building dynamic and scalable web apps.  
+- **Distributed Systems**: Exploring microservices and system scalability.  
+- **AI in IoT**: Developing predictive maintenance models for smart devices.  
 
 ---
 
 ## 🏆 Achievements  
 
-- 🏅 **Smart India Hackathon Participant**: SIH 2023 & 2024.  
+- 🏅 **Smart India Hackathon Participant**: Competed in **SIH 2023 & 2024**.  
 - 📜 **Certifications**: Google Cloud Career Practitioner and AWS Fundamentals.  
-- 💡 **Tech Blogger**: Featured on **Medium**.  
+- 💡 **Tech Blogger**: Sharing insights on **Medium** about tech and innovation.  
+- 🛠️ **IoT Innovator**: Successfully completed my **Smart Streetlight Controller** project.  
 
 ---
 
@@ -95,17 +104,24 @@ Explore more: [My Repositories](https://github.com/akshayconqurers?tab=repositor
 
 ---
 
+## ✨ Goals for 2025  
+
+- Contribute to **open-source** projects in **education** and **healthcare**.  
+- Build **IoT solutions** for environmental sustainability.  
+- Earn advanced certifications in **Cloud Architecture** and **MERN Stack**.  
+- Develop impactful **MERN-based** applications to solve real-world problems.  
+- Organize and mentor at hackathons via **Code Marathon** to inspire the next generation of coders.  
+
+---
+
 ## 🌟 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayconqurers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayconqurers)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayprince7800@gmail.com)  
 
 ---
 
-## ✨ Goals for 2025  
+*“Code is poetry, and I’m here to write epics.”*  
+Let’s collaborate and turn ideas into reality! 🚀  
 
-- Contribute to **open-source** projects impacting education and healthcare.  
-- Build innovative **IoT** solutions for environmental sustainability.  
-- Obtain advanced certifications in **Kubernetes** and **Cloud Architecture**.  
-- Make impactful MERN Projects  
