@@ -25,7 +25,7 @@ Check out my credentials!
 
 ## 🚀 Skills & Technologies  
 
-### Languages, Frameworks, and Cloud (Landscape Format)
+### Languages, Frameworks, and Cloud 
 
 | Languages | Frameworks | Cloud & DevOps |
 |-----------|------------|----------------|
