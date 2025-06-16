@@ -38,7 +38,7 @@ A dynamic personal portfolio showcasing my skills, projects, and achievements.
 ## 📄 Resume
 
 🎯 Check out my latest resume here:  
-[![Resume](https://img.shields.io/badge/VIEW%20RESUME-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-resume-link.com)
+[![Resume](https://img.shields.io/badge/VIEW%20RESUME-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/drive/folders/1pj7nINESvETNveeLmX2WatmThzSYsz4I?usp=sharing)
 
 ---
 
