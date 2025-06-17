@@ -65,6 +65,14 @@ A dynamic personal portfolio showcasing my skills, projects, and achievements.
 
 ---
 
+## 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,nextjs,mongodb,express,tailwind,aws,gcp,docker,git,github,vscode&perline=8" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 - **MERN Full Stack Development**
@@ -129,3 +137,7 @@ A dynamic personal portfolio showcasing my skills, projects, and achievements.
 ---
 
 <p align="center"><em>“Code is poetry, and I’m here to write epics.”</em></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshayconqurers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="akshayconqurers" />
+</p>
