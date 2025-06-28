@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Akshay Pratap Singh</h1>
 
 <p align="center">
-  <strong>Aspiring Software Engineer</strong> | <strong>MERN</strong> | <strong>Cloud Enthusiast</strong> | <strong>DSA C++</strong> | <strong>Creativity Creator</strong><br>
-  🎓 Recently Graduated B.Tech Student
+  <strong>Software Engineer</strong> | <strong>MERN</strong> | <strong>Cloud Enthusiast</strong> | <strong>DSA C++</strong> | <strong>Creativity Creator</strong><br>
+  🎓 Final Year B.Tech Student
 </p>
 
 <p align="center">
