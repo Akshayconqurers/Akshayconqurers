@@ -14,13 +14,6 @@
   <em>Fueled by passion for Web Development, Cloud-Native Solutions, and crafting IoT innovations. I thrive on solving real-world problems with code, curiosity, and creativity.</em>
 </p>
 
-<!-- NEW: Styled Static Quote -->
-<p align="center">
-  <div style="border: 2px solid #4B0082; border-radius: 10px; padding: 15px; background: #f5f5f5; max-width: 600px; margin: 0 auto; font-style: italic; color: #333;">
-    “Code is poetry, and I’m here to write epics.”
-  </div>
-</p>
-
 <!-- NEW: Horizontal Divider -->
 <hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
 
@@ -137,13 +130,6 @@ A dynamic personal portfolio showcasing my skills, projects, and achievements.
 <!-- NEW: Horizontal Divider -->
 <hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
 
-<!-- NEW: Recent Contributions -->
-## 🌍 Recent Contributions
-
-Check out my latest open-source contributions:  
-- [PR #1234: Added real-time chat feature to ChatSphere](https://github.com/akshayconqurers/ChatSphere/pull/1234)  
-- [Issue #567: Fixed UI bug in Athletix](https://github.com/akshayconqurers/Athletix/issues/567)  
-🔗 [See All Contributions](https://github.com/akshayconqurers?tab=overview&from=2025-07-01&to=2025-07-09)
 
 <!-- NEW: Horizontal Divider -->
 <hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
