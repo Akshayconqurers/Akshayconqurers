@@ -14,22 +14,12 @@
   <em>Fueled by passion for Web Development, Cloud-Native Solutions, and crafting IoT innovations. I thrive on solving real-world problems with code, curiosity, and creativity.</em>
 </p>
 
-<!-- NEW: Quote Rotator -->
+<!-- NEW: Styled Static Quote -->
 <p align="center">
-  <em id="quote">"Code is poetry, and I’m here to write epics."</em>
+  <div style="border: 2px solid #4B0082; border-radius: 10px; padding: 15px; background: #f5f5f5; max-width: 600px; margin: 0 auto; font-style: italic; color: #333;">
+    “Code is poetry, and I’m here to write epics.”
+  </div>
 </p>
-<script>
-  const quotes = [
-    "Code is poetry, and I’m here to write epics.",
-    "Innovation is the art of turning ideas into reality.",
-    "Every bug is a puzzle waiting to be solved."
-  ];
-  let currentQuote = 0;
-  setInterval(() => {
-    document.getElementById("quote").innerText = quotes[currentQuote];
-    currentQuote = (currentQuote + 1) % quotes.length;
-  }, 5000);
-</script>
 
 <!-- NEW: Horizontal Divider -->
 <hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
