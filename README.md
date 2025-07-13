@@ -22,7 +22,7 @@
 ### 🏃 [Code Marathon](https://code-marathon.vercel.app)
 A platform for organizing hackathons, enabling seamless team formation, and fostering collaborative coding. Built with **MERN Stack** to empower developers.
 
-### 🌟 [Streetlight Controller Management ]([https://code-marathon.vercel.app](https://github.com/akshayconqurers/SCMS)) 
+### 🌟 [Streetlight Controller Management ](https://github.com/akshayconqurers/SCMS)
 An IoT-powered system for energy-efficient streetlights with real-time fault detection. **Completed in 2024!**
 
 ### 🔥 Athletix – SIH 2024  
