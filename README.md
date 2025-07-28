@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong> | <strong>MERN</strong> | <strong>Cloud Enthusiast</strong> | <strong>DSA C++</strong> | <strong>Creativity Creator</strong><br>
-  🎓 Final Year B.Tech Student
+  🎓 B-Tech Computer Science Graduate'25
 </p>
 
 <p align="center">
