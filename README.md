@@ -25,6 +25,9 @@ A platform for organizing hackathons, enabling seamless team formation, and fost
 ### 🤖 [AI Code Complexity Visualizer](https://aicodecomplexityreviewer.netlify.app)
 An interactive web application that analyzes code complexity and creates beautiful visualizations.
 
+### 🧩 [Portfolio Website](https://akshaypratapsingh.netlify.app/)  
+A dynamic personal portfolio showcasing my skills, projects, and achievements.
+
 ### 🌟 [Streetlight Controller Management ](https://github.com/akshayconqurers/SCMS)
 An IoT-powered system for energy-efficient streetlights with real-time fault detection. **Completed in 2024!**
 
@@ -37,8 +40,7 @@ A robust C++-based flight booking system leveraging **OOP**, **data structures**
 ### 💹 Expense Tracker  
 A C++ application for managing daily expenses with a clean, user-friendly interface.
 
-### 🧩 Portfolio Website  
-A dynamic personal portfolio showcasing my skills, projects, and achievements.
+
 
 🔗 [My Repositories](https://github.com/akshayconqurers?tab=repositories)
 
