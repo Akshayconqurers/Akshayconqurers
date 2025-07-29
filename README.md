@@ -22,7 +22,7 @@
 ### 🏃 [Code Marathon](https://code-marathon.vercel.app)
 A platform for organizing hackathons, enabling seamless team formation, and fostering collaborative coding. Built with **MERN Stack** to empower developers.
 
-### 🤖 [AI Code Complexity Visualizer](https://github.com/Akshayconqurers/AI-Code-Complexity-visualizer)
+### 🤖 [AI Code Complexity Visualizer](https://aicodecomplexityreviewer.netlify.app)
 An interactive web application that analyzes code complexity and creates beautiful visualizations.
 
 ### 🌟 [Streetlight Controller Management ](https://github.com/akshayconqurers/SCMS)
