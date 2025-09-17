@@ -25,7 +25,7 @@ A platform for organizing hackathons, enabling seamless team formation, and fost
 ### 🤖 [AI Code Complexity Visualizer](https://aicodecomplexityreviewer.netlify.app)
 An interactive web application that analyzes code complexity and creates beautiful visualizations.
 
-### 🧩 [Portfolio Website](https://akshaypratapsingh.netlify.app/)  
+### 🧩 [Portfolio Website](https://akshaypratapsingh7800.netlify.app/)  
 A dynamic personal portfolio showcasing my skills, projects, and achievements.
 
 ### 🌟 [Streetlight Controller Management ](https://github.com/akshayconqurers/SCMS)
