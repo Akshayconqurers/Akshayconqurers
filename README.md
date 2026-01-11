@@ -31,15 +31,6 @@ A dynamic personal portfolio showcasing my skills, projects, and achievements.
 ### 🌟 [Streetlight Controller Management ](https://github.com/akshayconqurers/SCMS)
 An IoT-powered system for energy-efficient streetlights with real-time fault detection. **Completed in 2024!**
 
-### 🔥 Athletix – SIH 2024  
-A fitness-focused web app built with **ReactJS** and **MongoDB** to promote daily health and wellness.
-
-### ✈️ FlyHigh Airline Management System  
-A robust C++-based flight booking system leveraging **OOP**, **data structures**, and efficient control flows.
-
-### 💹 Expense Tracker  
-A C++ application for managing daily expenses with a clean, user-friendly interface.
-
 
 
 🔗 [My Repositories](https://github.com/akshayconqurers?tab=repositories)
