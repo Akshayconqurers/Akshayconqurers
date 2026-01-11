@@ -1,183 +1,161 @@
-<!-- NEW: Banner Image -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshayconqurers/akshayconqurers/main/assets/coding-banner.gif" alt="Coding Banner" width="100%" style="max-width: 800px; border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/akshayconqurers/akshayconqurers/main/assets/coding-banner.gif" 
+       alt="Coding Banner" width="100%" style="max-width: 900px; border-radius: 12px;" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Akshay Pratap Singh</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> | <strong>MERN</strong> | <strong>Cloud Enthusiast</strong> | <strong>DSA C++</strong> | <strong>Creativity Creator</strong><br>
-  🎓 B-Tech Computer Science Graduate'25
+  <strong>Cloud Engineer</strong> | <strong>Full-Stack (MERN)</strong> | <strong>IoT & Smart Systems</strong> | <strong>DSA (C++)</strong><br>
+  🎓 B.Tech Computer Science Engineering (2021–2025)
 </p>
 
 <p align="center">
-  <em>Fueled by passion for Web Development, Cloud-Native Solutions, and crafting IoT innovations. I thrive on solving real-world problems with code, curiosity, and creativity.</em>
+  <em>
+    I build scalable web platforms, cloud-native systems, and real-world IoT solutions.
+    Focused on clean architecture, performance, and practical impact.
+  </em>
 </p>
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+<hr/>
 
 ## 💻 Featured Projects
 
-### 🏃 [Code Marathon](https://code-marathon.vercel.app)
-A platform for organizing hackathons, enabling seamless team formation, and fostering collaborative coding. Built with **MERN Stack** to empower developers.
+### 🏃 Code Marathon — Hackathon Team Formation Platform  
+🔗 https://code-marathon.vercel.app  
 
-### 🤖 [AI Code Complexity Visualizer](https://aicodecomplexityreviewer.netlify.app)
-An interactive web application that analyzes code complexity and creates beautiful visualizations.
+- National-level MERN platform for hackathon hosting & team formation  
+- Enabled **50+ user registrations** in pilot testing  
+- Implemented **JWT + GitHub OAuth**, role-based access & responsive UI  
+- Deployed on **Vercel + MongoDB Atlas**  
 
-### 🧩 [Portfolio Website](https://akshaypratapsingh7800.netlify.app/)  
-A dynamic personal portfolio showcasing my skills, projects, and achievements.
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, TailwindCSS, GitHub OAuth
 
-### 🌟 [Streetlight Controller Management ](https://github.com/akshayconqurers/SCMS)
-An IoT-powered system for energy-efficient streetlights with real-time fault detection. **Completed in 2024!**
+---
 
+### 🤖 AI Code Complexity Reviewer  
+🔗 https://aicodecomplexityreviewer.netlify.app  
 
+- Analyzes pasted code to estimate **Big-O complexity**
+- Visualizes control flow using **D3.js**
+- Integrated **OpenAI API** for AI-generated explanations  
+- Backend powered by **Flask (Python)**
 
-🔗 [My Repositories](https://github.com/akshayconqurers?tab=repositories)
+**Tech Stack:** JavaScript (ES6), D3.js, Flask, Python, OpenAI API
 
-<!-- NEW: Star My Repos Badge -->
-<p align="center">
-  <a href="https://github.com/akshayconqurers?tab=repositories">
-    <img src="https://img.shields.io/badge/Star%20My%20Repos-%E2%9C%A8-4B0082?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+---
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+### 🌟 Streetlight Controller Management System (SCMS)  
+🔗 https://github.com/akshayconqurers/SCMS  
 
-## 📄 Resume
+- IoT-based smart streetlight automation system  
+- Energy optimization using **LDR sensors & ULN2803 relay driver**  
+- Real-time fault detection & centralized monitoring  
+- 📄 **Published in IJSREM Journal**
 
-🎯 Check out my latest resume here:  
-[![Resume](https://img.shields.io/badge/VIEW%20RESUME-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/drive/folders/1pj7nINESvETNveeLmX2WatmThzSYsz4I?usp=sharing)
+**Tech Stack:** Arduino UNO, Embedded C, IoTGecko, Sensors, Relays
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+---
 
-## 📜 Certifications
+### 🧩 Personal Portfolio  
+🔗 https://akshaypratapsingh7800.netlify.app  
 
-**[🔗 Discover My Certifications](https://github.com/akshayconqurers/certifications)**
+A dynamic portfolio showcasing projects, skills, and achievements.
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+---
 
-## 🌟 About Me
+🔗 **All Projects:** https://github.com/akshayconqurers?tab=repositories
 
-- 🌐 **Open Source Advocate**: Contributing to IoT, DevOps, and Web Development projects.
-- 🏅 **Smart India Hackathon Star**: Competed in SIH 2023 & 2024, showcasing innovative solutions.
-- 📜 **Certified Cloud Explorer**: Google Cloud Career Practitioner & AWS Fundamentals.
-- 🛠️ **Code Craftsman**: Passionate about Data Structures, Algorithms, and AI/ML applications.
+<hr/>
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+## 🧠 Experience
+
+**💼 MERN Stack Intern — AOW UI & UX** *(Mar 2025 – Jun 2025)*  
+- Built full-stack modules using MERN  
+- Converted Figma designs into responsive React components  
+- Integrated REST APIs for production features  
+
+**💼 Full-Stack Intern — Digipodium** *(Feb 2025 – Apr 2025)*  
+- Built & deployed **Code Marathon** platform  
+- Improved onboarding & UX flow for test users  
+
+**☁️ AWS Intern — ShapeMySkills Pvt. Ltd.** *(Jul 2024 – Aug 2024)*  
+- Deployed solutions on **EC2, S3, IAM**  
+- Improved cloud resource efficiency by **15%**
+
+<hr/>
 
 ## 🚀 Skills & Technologies
 
-| Languages | Frameworks | Cloud & DevOps |
-|-----------|------------|----------------|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) <!-- NEW --> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <!-- NEW --> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+**Languages:**  
+C, C++, JavaScript, TypeScript, Python, HTML, CSS  
 
-<!-- NEW: Medium Badge -->
-<p align="center">
-  <a href="https://medium.com/@akshayconqurers">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+**Frameworks & Libraries:**  
+React.js, Node.js, Express.js, Redux, TailwindCSS, MongoDB, SQL  
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+**Cloud & DevOps:**  
+AWS (EC2, S3, VPC, IAM, Lambda), GCP, Azure, Docker, Terraform  
 
-## 🧰 Toolbox
+**Core Concepts:**  
+DSA, REST APIs, System Design Basics, Responsive UI  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,nextjs,mongodb,express,tailwind,aws,gcp,docker,git,github,vscode&perline=8" />
-</p>
+**Tools:**  
+Git, GitHub, Linux, Vercel, VS Code  
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
-
-## 🌱 Currently Learning
-
-- **MERN Full Stack Development**
-- **Next.js & React** (50% complete)
-- **Distributed Systems**
-- **AI in IoT** for predictive maintenance
-
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+<hr/>
 
 ## 🏆 Achievements
 
-- 🏅 Participated in **Smart India Hackathon 2023 & 2024**
-- 📜 Certified in Google Cloud & AWS Fundamentals
-- ✍️ **Tech Blogger** on Medium
-- 🧠 Completed **Smart Streetlight Controller** (IoT Project)
+- 🏅 **Smart India Hackathon 2024 – Campus Winner Nominee**  
+  Led a 6-member team to build a medical book reviewer prototype  
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+- 🥇 **Digipodium Design Phase Winner (2025)**  
+  UI/UX prototype adopted in final product  
+
+- 🎖️ **ACM BBDITM – Award of Appreciation**  
+  For technical events & workshops  
+
+- 🌐 **Core Team Member – Google Developer Student Clubs**  
+  Organized DevFest’23 & multiple tech events (500+ participants)
+
+<hr/>
+
+## 🌱 Currently Learning
+
+- Distributed Systems & Cloud Architecture  
+- Advanced MERN patterns  
+- AI integration in real-world applications  
+- Scalable backend design
+
+<hr/>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayconqurers&show_icons=true&theme=radical" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayconqurers&theme=radica" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayconqurers&layout=compact&theme=radical" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayconqurers&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayconqurers&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayconqurers&layout=compact&theme=radical" />
 </p>
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+<hr/>
 
+## 🤝 Let’s Collaborate
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
+Interested in:
+- Open-source projects  
+- Hackathons & developer communities  
+- Cloud-native or IoT solutions  
 
-### 🎨 Dynamic GitHub Profile
+📩 Reach out on  
+[LinkedIn](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250) |  
+[GitHub](https://github.com/akshayconqurers) |  
+✉️ akshayprince7800@gmail.com  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshayconqurers&theme=radical&row=1&column=7" style="margin: 10px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayconqurers&theme=radical&hide_border=true&area=true" style="margin: 10px;" />
-</p>
+<hr/>
 
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
-
-## ✨ Goals for 2025
-
-- Contribute to open-source in **Education** & **Healthcare**
-- Build IoT solutions for sustainability 🌱
-- Earn certifications in **Cloud Architecture** & **MERN Stack**
-- Develop meaningful MERN-based applications
-- Mentor and organize hackathons via **Code Marathon**
-
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
-
-<!-- NEW: Let's Collaborate Section -->
-## 🤝 Let's Collaborate
-
-Got an idea for a hackathon, open-source project, or IoT innovation? I’m all in for building impactful solutions! DM me on [LinkedIn](https://www.linkedin.com/in/akshay-pratap-singh-a309b8250) or [GitHub](https://github.com/akshayconqurers) to team up.
-
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
-
-## 🌐 Let's Connect
+<p align="center"><em>“Build things that scale. Learn things that last.”</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshay-pratap-singh-a309b8250">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/akshayconqurers">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:akshayprince7800@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- NEW: Horizontal Divider -->
-<hr style="border: 1px solid #4B0082; border-radius: 5px; margin: 20px 0;" />
-
-<p align="center"><em>“Code is poetry, and I’m here to write epics.”</em></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshayconqurers&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="akshayconqurers" />
+  <img src="https://komarev.com/ghpvc/?username=akshayconqurers&label=Profile%20views&style=for-the-badge" />
 </p>
