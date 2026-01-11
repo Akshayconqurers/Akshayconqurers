@@ -71,7 +71,7 @@ A dynamic portfolio showcasing projects, skills, and achievements.
 
 ## 🧠 Experience
 
-**💼 MERN Stack Intern — AOW UI & UX** *(Mar 2025 – Jun 2025)*  
+**💼 MERN Stack Intern — AOW UI & UX** *(Jul 2025 – Sep 2025)*  
 - Built full-stack modules using MERN  
 - Converted Figma designs into responsive React components  
 - Integrated REST APIs for production features  
